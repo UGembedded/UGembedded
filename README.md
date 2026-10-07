@@ -15,3 +15,4 @@ embedded systems, electronics, sensing and communications.
 ## Featured Projects
 - [KL25Z Accelerometer-Controlled LED]
 - [Autonomous Racing Car Electronics]
+- [Audio Spectrum Analyser]
