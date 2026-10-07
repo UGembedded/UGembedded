@@ -13,6 +13,5 @@ embedded systems, electronics, sensing and communications.
 
 
 ## Featured Projects
-- [Fibre-Optic Particle Sensing System] 
 - [KL25Z Accelerometer-Controlled LED]
 - [Autonomous Racing Car Electronics]
